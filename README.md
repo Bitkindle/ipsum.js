@@ -4,10 +4,10 @@ A 1kb lightweight jQuery plugin to generate lorem ipsum dummy text.
 
 ## How to use
 
-Download the ipsum.js file and add it to your code:
+Download the jquery.ipsum.js file and add it to your code:
 
 ```
-<script src="path/ipsum.js"></script>
+<script src="path/jquery.ipsum.js"></script>
 ```
 
 Generate a dummy text headline with 20 characters:
