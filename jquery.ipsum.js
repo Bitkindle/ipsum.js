@@ -1,8 +1,8 @@
 /**
  * Ipsum.js - Lightweight jQuery Dummy Text Generator
- * https://github.com/Bitkindle/Ipsum.js
+ * https://github.com/Bitkindle/ipsum.js
  *
- * Copyright 2016 Bitkindle
+ * Copyright 2017 Bitkindle
  * Released under the MIT license
  *
  */
